@@ -1,0 +1,23 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+@
+src/app/page.tsx,3/3/3393394e21dbac7686e91ad17c5283fb052d67f3
+T
+$src/components/max-width-wrapper.tsx,d/a/daff54cb2846686443b8068600bb8f4134d30903
+H
+src/components/phone.tsx,6/3/6332a84c6abd9c90e49390912ea74af7d3f230d3
+I
+src/components/review.tsx,5/2/521ecbc445c8de3d18ba512e66859becc2c5a00f
+B
+tailwind.config.ts,5/2/52c961376029165b06e7861b1dc68c3b2455eeff
+I
+src/components/footer.tsx,5/2/52d8b363510dbefbfdfb26c2c9bbccf179d45007
+B
+src/app/layout.tsx,c/f/cfb47de6ae0cae626eed46461300112ef521d977
+Q
+!src/app/configure/upload/page.tsx,f/c/fc94659acb25f9432fbb85d40c87ee828eeb3156
+S
+#src/app/configure/upload/layout.tsx,0/f/0f25987142b8a5e80761ad2f493c7b1c9d00e8d1
+`
+0src/app/configure/design/design-configurator.tsx,8/4/84e5f4f0c8663862493b1ddc5ce93bef557d3fbe
